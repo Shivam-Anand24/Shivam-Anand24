@@ -2,7 +2,8 @@
 ## Hi there, I'm Shivam! 👋<br><br>🌱 I'm currently working on front-end development with React and building seamless Android apps.<br><br>📚 I'm skilling myself more about advanced React patterns and diving deeper into the world of artificial intelligence.<br><br>🚀 I'm looking to collaborate on open-source projects that challenge me to solve meaningful problems.<br><br>💬 Ask me about anything related to React, Android app development, or getting started with machine learning.
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
-# 🌐 Socials:
+
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/967280332606935060) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-anand-854311227/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Shivam-Anand-361) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ShivamA18064092) 
 
 # 💻 Tech Stack:
@@ -24,3 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shivam-Anand24&icon=2&color=8)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
